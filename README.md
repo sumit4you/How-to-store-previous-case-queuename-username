@@ -1,4 +1,4 @@
-# How-to-store-previous-case-queuename-username
+# Populate previous Case Owner
 
 This code block will help you to store previous case queue name or previous case username.
 
